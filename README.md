@@ -1,0 +1,2 @@
+# cleanexodus
+Cleaner exodus wallet.
